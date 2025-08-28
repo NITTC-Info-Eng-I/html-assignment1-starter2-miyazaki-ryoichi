@@ -10,3 +10,4 @@
 ## 提出方法
 - GitHub Classroom の自分のリポジトリに push してください。
 - 提出物は `index.html` です。
+- URL: [ここ](https://nittc-info-eng-i.github.io/html-assignment1-starter2-miyazaki-ryoichi/)
